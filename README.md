@@ -1,3 +1,3 @@
 <h1 align="center">
-<code>Documentation</code>
+<samp>Documentation</samp>
 </h1>
